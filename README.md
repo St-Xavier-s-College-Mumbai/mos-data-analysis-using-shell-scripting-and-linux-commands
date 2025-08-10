@@ -9,12 +9,16 @@ command-line utilities.
 ## Repository Structure
 
 i)clean_data/
-	cleaned_logs.csv.gz # Compressed cleaned data
+cleaned_logs.csv.gz
+# Compressed cleaned data
 
 ii)scripts/
-	analysis.sh # Data insights & analysis logic
-	visualize.py # Visualization script
-        cleaned_logs.sh # Script used to clean logs
+analysis.sh
+# Data insights & analysis logic
+visualize.py
+# Visualization script
+cleaned_logs.sh
+# Script used to clean logs
 
 iii)README.md # Project documentation
 
